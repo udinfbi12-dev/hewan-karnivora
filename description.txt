@@ -4,6 +4,7 @@ jenis jenis hewan karnivora
   - singa
   - harimau
   - singa
-  - ayam 
+  - kucing
   - Ikan hiu
+  - elang
   
