@@ -1,0 +1,7 @@
+jenis jenis hewan karnivora
+  - anjing
+  - komodo
+  - singa
+  - harimau
+  - singa
+  
