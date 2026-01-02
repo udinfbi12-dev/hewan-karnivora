@@ -1,4 +1,7 @@
 hewan hewan omnivora
+- tikus
+- ayam 
 - babi
 - ikan lele
+
 
