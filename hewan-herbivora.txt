@@ -1,0 +1,6 @@
+Macam macam hewan herbivora
+- sapi
+- domba
+- kelinci
+- kerbau
+- kuda
